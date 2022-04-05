@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**AI STUDY
-**
-TOY PROJECT
+### AI STUDY
+
+### TOY PROJECT
 
 <!--
 **skawhd9588/skawhd9588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
