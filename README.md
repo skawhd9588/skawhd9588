@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-AI STUDY
-
+**AI STUDY
+**
 TOY PROJECT
 
 <!--
