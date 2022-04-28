@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi. Nice to meet you. 👋
+My name is Jong Hyeon Nam.
 ### AI STUDY
 
 ### TOY PROJECT
